@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" role="img" aria-label="NEXUSMON unresolved transmission">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="48%" r="72%">
+      <stop offset="0" stop-color="#130024"/>
+      <stop offset="0.42" stop-color="#05090f"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.95"/>
+      <stop offset="0.15" stop-color="#a45cff" stop-opacity="0.92"/>
+      <stop offset="0.48" stop-color="#6e35ff" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#6e35ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop offset="0" stop-color="#00eaff"/>
+      <stop offset="0.5" stop-color="#8d56ff"/>
+      <stop offset="1" stop-color="#ffb52e"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#00eaff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="480" fill="url(#bg)"/>
+  <rect width="1280" height="480" fill="url(#grid)"/>
+
+  <g opacity="0.55">
+    <path d="M0 76H280M1000 76H1280M0 401H350M930 401H1280" stroke="#00eaff" stroke-width="2"/>
+    <path d="M0 84H170M1115 84H1280M0 393H210M1060 393H1280" stroke="#8d56ff" stroke-width="4" opacity="0.7"/>
+  </g>
+
+  <circle cx="640" cy="210" r="124" fill="url(#core)" filter="url(#glow)"/>
+  <circle cx="640" cy="210" r="88" fill="none" stroke="#00eaff" stroke-opacity="0.58" stroke-width="2"/>
+  <circle cx="640" cy="210" r="112" fill="none" stroke="#8d56ff" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="8 13"/>
+  <circle cx="640" cy="210" r="144" fill="none" stroke="#ffb52e" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="2 17"/>
+
+  <g transform="translate(640 210)" filter="url(#glow)">
+    <path d="M-46 0L-12-28L0-8L12-28L46 0L12 28L0 8L-12 28Z" fill="none" stroke="url(#signal)" stroke-width="5"/>
+    <circle r="7" fill="#fff"/>
+  </g>
+
+  <text x="640" y="378" text-anchor="middle" fill="#d9faff" font-family="monospace" font-size="54" letter-spacing="18">NEXUSMON</text>
+  <text x="640" y="419" text-anchor="middle" fill="#00eaff" fill-opacity="0.75" font-family="monospace" font-size="14" letter-spacing="8">UNRESOLVED SIGNAL</text>
+
+  <g fill="#00eaff" opacity="0.5">
+    <rect x="74" y="155" width="120" height="3"/>
+    <rect x="1040" y="314" width="166" height="3"/>
+    <rect x="242" y="327" width="52" height="2"/>
+  </g>
+  <g fill="#8d56ff" opacity="0.52">
+    <rect x="113" y="166" width="56" height="7"/>
+    <rect x="1082" y="303" width="83" height="7"/>
+  </g>
+</svg>
