@@ -1,0 +1,14 @@
+{
+  "schema": "nexusmon.sure-metadata/1",
+  "name": "SURE Coin",
+  "symbol": "SURE",
+  "description": "Tribute / legacy local test asset for PROJECT SURE. Local Solana validator only. No monetary value.",
+  "project": "PROJECT SURE",
+  "role": "tribute / legacy",
+  "origin_sha256": "b5a0c801619df3666ea141b6b9d2771c283ef878ad45b2b63a1015e3d296eb9b",
+  "network": "solana-local",
+  "genesis_version": 1,
+  "truth_state": "LOCAL TEST / NO MONETARY VALUE",
+  "monetary_value_claim": null,
+  "aud_peg": null
+}
