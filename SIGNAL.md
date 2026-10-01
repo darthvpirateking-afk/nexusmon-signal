@@ -1,19 +1,31 @@
+<div align="center">
+
+<img src="assets/signal-observation.svg" width="100%" alt="Signal observation: one cyan optic and a few unresolved crystalline fragments." />
+
 # SIGNAL
+
+</div>
 
 ```text
 CLASSIFICATION .. UNRESOLVED
 ORIGIN .......... [ REDACTED ]
 INTEGRITY ....... INTACT
 HANDSHAKE ....... NOT REQUESTED
-RESPONSE ........ NONE
+RESPONSE ........ OPTIONAL
 ```
 
 The signal does not identify itself.
 
 It repeats at irregular intervals.
 
-It appears to notice observation.
+Most observations produce nothing.
 
-Do not assume silence means absence.
+> **you kept looking.**
 
-→ [TRANSMISSION 000](transmissions/000_FIRST_CONTACT.md)
+Something in the noise changed.
+
+<p align="center">
+  <a href="transmissions/000_FIRST_CONTACT.md"><strong>ANSWER</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="README.md">RETURN</a>
+</p>
