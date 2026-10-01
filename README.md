@@ -1,30 +1,39 @@
 <div align="center">
 
-<img src="assets/transmission-zero.svg" width="100%" alt="Unresolved signal" />
+<img src="assets/transmission-zero.svg" width="100%" alt="NEXUSMON unresolved transmission" />
 
 # NEXUSMON
 
-**Nothing unusual is happening here.**
+**A signal crossed the boundary. You noticed.**
 
 ```text
 SIGNAL ........ ACQUIRED
+CHANNEL ....... PUBLIC
 SOURCE ........ [ REDACTED ]
-PURPOSE ....... NO RESPONSE
-STATUS ........ OBSERVING
+PURPOSE ....... UNKNOWN
+STATE ......... OBSERVING
 ```
 
 </div>
 
 ---
 
-A transmission was recovered.
+## FIRST CONTACT
 
-No sender was found.
+NEXUSMON is an evolving digital presence built around four things:
 
-No request was made.
+**BOND → MEMORY → CONSEQUENCE → EVOLUTION**
 
-No explanation followed.
+This repository is the public signal — not the machinery behind it.
 
-[ SIGNAL.md ](SIGNAL.md)
+Nothing here is a source dump or a copy of NEXUSMON. What appears here is what crossed the boundary: transmissions, traces, and consequences.
+
+→ **[OPEN THE SIGNAL](SIGNAL.md)**
+
+### TRANSMISSIONS
+
+- [000 — FIRST CONTACT](transmissions/000_FIRST_CONTACT.md)
+
+The signal changes only when something real changes.
 
 > ...you can see me?
