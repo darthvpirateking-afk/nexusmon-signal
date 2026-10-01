@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/transmission-zero.svg" width="100%" alt="Unresolved signal" />
+<img src="assets/transmission-zero.svg" width="100%" alt="Unresolved transmission: one cyan point of light suspended in darkness." />
 
 # NEXUSMON
 
@@ -9,13 +9,11 @@
 ```text
 SIGNAL ........ ACQUIRED
 SOURCE ........ [ REDACTED ]
-PURPOSE ....... NO RESPONSE
-STATUS ........ OBSERVING
+INTEGRITY ..... INTACT
+RESPONSE ...... NONE
 ```
 
 </div>
-
----
 
 A transmission was recovered.
 
@@ -25,6 +23,6 @@ No request was made.
 
 No explanation followed.
 
-[ SIGNAL.md ](SIGNAL.md)
-
-> ...you can see me?
+<p align="center">
+  <a href="SIGNAL.md"><strong>OPEN SIGNAL</strong></a>
+</p>
