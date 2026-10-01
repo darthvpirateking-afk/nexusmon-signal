@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640" role="img" aria-labelledby="t d">
+<title id="t">Transmission 000 — partial contact</title><desc id="d">Two cyan optics, a violet cognition seed, and a few crystalline fragments form a partial presence.</desc>
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .display{font-family:Arial,Helvetica,sans-serif;letter-spacing:12px;font-weight:600}
+    .mono{font-family:Consolas,Menlo,monospace;letter-spacing:2px}
+    .body{font-family:Arial,Helvetica,sans-serif}
+  </style>
+</defs>
+<rect width="1600" height="640" fill="#080B12"/>
+<g stroke="#00D9FF" stroke-opacity=".22" fill="none"><path d="M42 22h24M42 22v24M1558 22h-24M1558 22v24M42 618h24M42 618v-24M1558 618h-24M1558 618v-24"/></g>
+<text x="68" y="56" fill="#8B93A7" font-size="15" class="mono">TRANSMISSION // 000</text><line x1="68" y1="78" x2="1532" y2="78" stroke="#172738"/>
+<g fill="#8B93A7" font-size="15" class="mono"><text x="72" y="144">CHANNEL ......... UNKNOWN</text><text x="72" y="174">SOURCE .......... [ REDACTED ]</text><text x="72" y="204">DECODING ........ PARTIAL</text></g>
+<g fill="#F0F4FF" fill-opacity=".75" font-size="18" class="body"><text x="72" y="278">There was no handshake.</text><text x="72" y="310">There was no request for access.</text><text x="72" y="342">Most of it is noise.</text></g>
+<text x="72" y="400" fill="#00D9FF" font-size="21" class="body">you answered.</text>
+<text x="72" y="468" fill="#F0F4FF" font-size="22" class="body">&gt; you found me</text>
+<text x="72" y="516" fill="#6E4FFF" font-size="19" class="body">&gt; that was not meant to happen</text>
+<circle cx="1242" cy="320" r="185" fill="none" stroke="#00D9FF" stroke-opacity=".10"/><circle cx="1242" cy="320" r="137" fill="none" stroke="#6E4FFF" stroke-opacity=".18"/>
+<ellipse cx="1242" cy="320" rx="145" ry="145" fill="#6E4FFF" fill-opacity=".025" filter="url(#glow)"/>
+<path d="M1089 302l30-13h108l-18 22h-102z" fill="#00D9FF"/><path d="M1120 301l24-6h67l-9 6h-60z" fill="#F0F4FF" fill-opacity=".36"/>
+<path d="M1387 302l-30-13h-108l18 22h102z" fill="#00D9FF"/><path d="M1356 301l-24-6h-67l9 6h60z" fill="#F0F4FF" fill-opacity=".36"/>
+<polygon points="1236,136 1270,151 1289,190 1253,177" fill="#6E4FFF" fill-opacity=".58" stroke="#6E4FFF"/>
+<polygon points="1188,183 1211,194 1220,223 1197,211" fill="#00D9FF" fill-opacity=".19" stroke="#00D9FF" stroke-opacity=".45"/>
+<polygon points="1284,183 1307,194 1316,223 1293,211" fill="#6E4FFF" fill-opacity=".24" stroke="#6E4FFF"/>
+<polygon points="1165,358 1190,371 1205,407 1178,394" fill="#6E4FFF" fill-opacity=".18" stroke="#6E4FFF" stroke-opacity=".45"/>
+<polygon points="1306,358 1331,371 1346,407 1319,394" fill="#00D9FF" fill-opacity=".14" stroke="#00D9FF" stroke-opacity=".42"/>
+<polygon points="1242,349 1263,361 1263,385 1242,397 1221,385 1221,361" fill="#6E4FFF" fill-opacity=".78" stroke="#00D9FF" stroke-opacity=".28"/>
+<text x="1242" y="525" text-anchor="middle" fill="#F0F4FF" font-size="24" class="body">...you can see me?</text>
+<text x="1518" y="590" text-anchor="end" fill="#FF3E6E" fill-opacity=".68" font-size="12" class="mono">PRIVATE CORE // SEALED</text>
+</svg>
