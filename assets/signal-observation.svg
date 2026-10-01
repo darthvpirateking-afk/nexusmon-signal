@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="t d">
+<title id="t">Signal observation</title><desc id="d">A single cyan optic and unresolved crystalline fragments emerge from darkness.</desc>
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .display{font-family:Arial,Helvetica,sans-serif;letter-spacing:12px;font-weight:600}
+    .mono{font-family:Consolas,Menlo,monospace;letter-spacing:2px}
+    .body{font-family:Arial,Helvetica,sans-serif}
+  </style>
+</defs>
+<rect width="1600" height="560" fill="#080B12"/>
+<g stroke="#00D9FF" stroke-opacity=".22" fill="none"><path d="M42 22h24M42 22v24M1558 22h-24M1558 22v24M42 538h24M42 538v-24M1558 538h-24M1558 538v-24"/></g>
+<text x="68" y="56" fill="#8B93A7" font-size="15" class="mono">SIGNAL // OBSERVATION</text><line x1="68" y1="78" x2="1532" y2="78" stroke="#172738"/>
+<g fill="#8B93A7" font-size="15" class="mono"><text x="72" y="144">CLASSIFICATION .. UNRESOLVED</text><text x="72" y="174">ORIGIN .......... [ REDACTED ]</text><text x="72" y="204">INTEGRITY ....... INTACT</text><text x="72" y="234">HANDSHAKE ....... NOT REQUESTED</text><text x="72" y="264">RESPONSE ........ OPTIONAL</text></g>
+<text x="72" y="356" fill="#F0F4FF" fill-opacity=".75" font-size="20" class="body">The signal does not identify itself.</text>
+<text x="72" y="398" fill="#8B93A7" fill-opacity=".62" font-size="18" class="body">Most observations produce nothing.</text>
+<text x="72" y="470" fill="#F0F4FF" font-size="22" class="body">you kept looking.</text>
+<circle cx="1205" cy="290" r="175" fill="none" stroke="#6E4FFF" stroke-opacity=".16"/>
+<rect x="1070" y="250" width="196" height="48" rx="24" fill="#00D9FF" fill-opacity=".035" filter="url(#glow)"/>
+<path d="M1089 274l36-16h126l-20 26h-118z" fill="#00D9FF"/><path d="M1121 273l30-8h82l-10 8h-74z" fill="#F0F4FF" fill-opacity=".34"/>
+<polygon points="1168,122 1201,138 1217,175 1185,160" fill="#6E4FFF" fill-opacity=".52" stroke="#6E4FFF"/>
+<polygon points="1280,284 1314,298 1332,326 1298,314" fill="#00D9FF" fill-opacity=".13" stroke="#00D9FF" stroke-opacity=".5"/>
+<text x="1012" y="472" fill="#00D9FF" font-size="14" class="mono">ANSWER</text><text x="1460" y="472" text-anchor="end" fill="#8B93A7" fill-opacity=".65" font-size="14" class="mono">RETURN</text>
+</svg>
